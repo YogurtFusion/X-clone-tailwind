@@ -17,14 +17,22 @@ Created to sharpen my Tailwind fundamentals before diving into React projects.
 
 <div align="center">
 
-## 🚀 Try It Yourself  
 
-You can clone this repo and run it locally 👇  
+## Install & run (local)
+```bash
+# clone
+git clone https://github.com/<your-username>/twitter-clone-tailwind.git
+cd twitter-clone-tailwind
 
-bash
-git clone https://github.com/YogurtFusion/X-clone-tailwind.git
-cd X-clone-tailwind
----
+# install
+npm install
+
+# dev
+npm run dev
+
+# build
+npm run build
+npm run preview
 
 ## 👤 About Me  
 <img src="https://github.com/YogurtFusion.png" width="100" style="border-radius:50%" alt="Aniket's profile photo" />
