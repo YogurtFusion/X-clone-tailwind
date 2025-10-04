@@ -21,7 +21,7 @@ Created to sharpen my Tailwind fundamentals before diving into React projects.
 
 
 ## 👤 About Me  
-<img src="https://github.com/YogurtFusion.png" width="100" style="border-radius:50%" alt="Aniket's profile photo" />
+<img src="https://github.com/YogurtFusion.png" width="100" style=" display: flex; align-item: center; border-radius:50%" alt="Aniket's profile photo" />
 
 Hi, I’m **Aniket** — an 18-year-old web dev exploring HTML, CSS, JS, and the world of  React and MongoDB.  
 I love building clean, practical projects that sharpen my skills step by step.  
