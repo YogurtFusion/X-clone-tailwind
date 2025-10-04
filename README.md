@@ -15,6 +15,17 @@ Created to sharpen my Tailwind fundamentals before diving into React projects.
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YogurtFusion&layout=compact&theme=radical)
 ---
 
+<div align="center">
+
+## 🚀 Try It Yourself  
+
+You can clone this repo and run it locally 👇  
+
+bash
+git clone https://github.com/YogurtFusion/X-clone-tailwind.git
+cd X-clone-tailwind
+---
+
 ## 👤 About Me  
 <img src="https://github.com/YogurtFusion.png" width="100" style="border-radius:50%" alt="Aniket's profile photo" />
 
