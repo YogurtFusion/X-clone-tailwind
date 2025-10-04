@@ -19,9 +19,9 @@ Created to sharpen my Tailwind fundamentals before diving into React projects.
 
 
 ## Install & run (local)
-```bash
+bash
 # clone
-git clone https://github.com/<your-username>/twitter-clone-tailwind.git
+git clone [https://github.com/<your-username>/twitter-clone-tailwind.git](https://github.com/YogurtFusion/X-clone-tailwind.git)
 cd twitter-clone-tailwind
 
 # install
