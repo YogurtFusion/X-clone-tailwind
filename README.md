@@ -26,10 +26,15 @@ Created to sharpen my Tailwind fundamentals before diving into React projects.
 </div>
 
 ---
+<div align="center"> <img src="https://github.com/YogurtFusion.png" width="120" style="border-radius:50%" alt="Aniket's profile photo" /> </div>
+👤 About Me
 
+Hi, I’m Aniket — an 18-year-old web dev exploring HTML, CSS, JS, and the world of React and MongoDB.
+I love building clean, practical projects that sharpen my skills step by step.
 <div align="center">
 
 ## 🚀 Install & Run (local)
+# X-clone-tailwind
 
 ```bash
 # clone
@@ -45,22 +50,3 @@ npm run dev
 # build
 npm run build
 npm run preview
-</div>
-👤 About Me
-<div align="center"> <img src="https://github.com/YogurtFusion.png" width="120" style="border-radius:50%" alt="Aniket's profile photo" />
-Hi, I’m Aniket — an 18-year-old web dev exploring HTML, CSS, JS, and the world of React and MongoDB.
-I love building clean, practical projects that sharpen my skills step by step.
-
-</div>
-bash``` 
-🧭 Future Plans
-Add responsiveness & animations
-
-Integrate dynamic behavior with JS or React
-
-Maybe even connect a simple backend later 👀
-
-<div align="center">
-⚡ "Small builds sharpen the craft. Bigger ones shape the creator."
-
-</div> ```
